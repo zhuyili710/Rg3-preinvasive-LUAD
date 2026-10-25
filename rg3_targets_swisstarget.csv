@@ -1,0 +1,101 @@
+target,gene,uniprot,chembl,class,probability
+Signal transducer and activator of transcription 3,STAT3,P40763,CHEMBL4026,Transcription factor,0.3192327411481309
+Bifunctional epoxide hydrolase 2,EPHX2,P34913,CHEMBL2409,Protease,0.25169742042026055
+Synaptojanin-2,SYNJ2,O15056,CHEMBL4523129,Hydrolase,0.16922762653333354
+Platelet-activating factor receptor,PTAFR,P25105,CHEMBL250,Family A G protein-coupled receptor,0.16616334238667244
+Acetylcholinesterase,ACHE,P22303,CHEMBL220,Hydrolase,0.10883042670156987
+Heat shock protein HSP 90-alpha,HSP90AA1,P07900,CHEMBL3880,Other cytosolic protein,0.06658387976657497
+Galectin-4,LGALS4,P56470,CHEMBL1671608,Other cytosolic protein,0.059728456761297094
+Galectin-3,LGALS3,P17931,CHEMBL4531,Other cytosolic protein,0.059728456761297094
+Galectin-8,LGALS8,O00214,CHEMBL5475,Other cytosolic protein,0.059728456761297094
+Cyclin-dependent kinase 1/cyclin B1,N,P06493&P14635,CHEMBL1907602,Kinase,0.05641632776372408
+Eukaryotic initiation factor 4A-I,EIF4A1,P60842,CHEMBL2052028,Hydrolase,0.04400415225892867
+Bile acid receptor,NR1H4,Q96RI1,CHEMBL2047,Nuclear receptor,0.03565670785974402
+Neurogenic locus notch homolog protein 1,NOTCH1,P46531,CHEMBL2146346,Membrane receptor,0.032439838162169554
+Vascular endothelial growth factor receptor 2,KDR,P35968,CHEMBL279,Kinase,0.023760619549831344
+"NACHT, LRR and PYD domains-containing protein 3",NLRP3,Q96P20,CHEMBL1741208,Unclassified protein,0.019630757301761927
+Glucocorticoid receptor,NR3C1,P04150,CHEMBL2034,Nuclear receptor,0.01688735396446248
+Toll-like receptor 2,TLR2,O60603,CHEMBL4163,Toll-like and Il-1 receptors,0.016722962436531083
+"Pyruvate carboxylase, mitochondrial",PC,P11498,CHEMBL5725151,Ligase,0.01634288727666316
+Oxysterol-binding protein 2,OSBP2,Q969R2,CHEMBL5465343,Unclassified protein,0.015072816771213679
+Oxysterol-binding protein 1,OSBP,P22059,CHEMBL4523203,Unclassified protein,0.015072816771213679
+Coagulation factor X,F10,P00742,CHEMBL244,Protease,0.014521662981115789
+Toll-like receptor 4,TLR4,O00206,CHEMBL5255,Toll-like and Il-1 receptors,0.014521662981115789
+Tyrosine-protein phosphatase non-receptor type 1,PTPN1,P18031,CHEMBL335,Phosphatase,0.013554990407730939
+Methionine aminopeptidase 2,METAP2,P50579,CHEMBL3922,Protease,0.010603215363042151
+Matrix metalloproteinase-9,MMP9,P14780,CHEMBL321,Protease,0.00926013624747171
+Mineralocorticoid receptor,NR3C2,P08235,CHEMBL1994,Nuclear receptor,0.00926013624747171
+Progesterone receptor,PGR,P06401,CHEMBL208,Nuclear receptor,0.00926013624747171
+Sodium-dependent noradrenaline transporter,SLC6A2,P23975,CHEMBL222,Electrochemical transporter,0.009166291646864949
+Liver carboxylesterase 1,CES1,P23141,CHEMBL2265,Hydrolase,0.007917007681137204
+Cocaine esterase,CES2,O00748,CHEMBL3180,Hydrolase,0.007917007681137204
+Sodium/potassium-transporting ATPase subunit alpha-2/beta-3,N,P50993&P54709,CHEMBL6066562,Primary active transporter,0.007808178023332236
+Sodium/potassium-transporting ATPase subunit alpha-2/beta-2,N,P14415&P50993,CHEMBL6066561,Primary active transporter,0.007808178023332236
+Sodium/potassium-transporting ATPase subunit alpha-2/beta-1,N,P05026&P50993,CHEMBL6066560,Primary active transporter,0.007808178023332236
+Sodium/potassium-transporting ATPase subunit alpha-1/beta-1,N,P05023&P05026,CHEMBL6066559,Primary active transporter,0.007808178023332236
+Protein kinase C alpha type,PRKCA,P17252,CHEMBL299,Kinase,0.007336980791415076
+Serine/threonine-protein phosphatase 2A activator,PTPA,Q15257,CHEMBL2505,Phosphatase,0.007282009374107642
+Toll-like receptor 9,TLR9,Q9NR96,CHEMBL5804,Toll-like and Il-1 receptors,0.0071015128526728455
+Prostaglandin G/H synthase 2,PTGS2,P35354,CHEMBL230,Oxidoreductase,0.007029485405097936
+Prostaglandin G/H synthase 1,PTGS1,P23219,CHEMBL221,Oxidoreductase,0.007029485405097936
+Zinc finger protein GLI1,GLI1,P08151,CHEMBL5461,Transcription factor,0.006973934098076845
+Isocitrate dehydrogenase [NADP] cytoplasmic,IDH1,O75874,CHEMBL2007625,Oxidoreductase,0.006973934098076845
+Tyrosine-protein phosphatase non-receptor type 11,PTPN11,Q06124,CHEMBL3864,Phosphatase,0.006894021149283109
+Peroxisome proliferator-activated receptor gamma,PPARG,P37231,CHEMBL235,Nuclear receptor,0.006894021149283109
+Glycine receptor subunit alpha-2,GLRA2,P23416,CHEMBL5871,Ligand-gated ion channel,0.006894021149283109
+Glycine receptor subunit alpha-1,GLRA1,P23415,CHEMBL5845,Ligand-gated ion channel,0.006894021149283109
+Serine/threonine-protein phosphatase PP1-gamma catalytic subunit,PPP1CC,P36873,CHEMBL4438,Phosphatase,0.006193087148767983
+Amyloid-beta precursor protein,APP,P05067,CHEMBL2487,Membrane receptor,0.0055865054194106515
+Beta-glucuronidase,GUSB,P08236,CHEMBL2728,Hydrolase,0.005433020078273343
+Carbonic anhydrase 9,CA9,Q16790,CHEMBL3594,Lyase,0.005387206064775875
+Carbonic anhydrase 2,CA2,P00918,CHEMBL205,Lyase,0.005387206064775875
+Carbonic anhydrase 1,CA1,P00915,CHEMBL261,Lyase,0.005387206064775875
+Carbonic anhydrase 12,CA12,O43570,CHEMBL3242,Lyase,0.005387206064775875
+Vitamin D3 receptor,VDR,P11473,CHEMBL1977,Nuclear receptor,0.005354328741718439
+Somatostatin receptor type 5,SSTR5,P35346,CHEMBL1792,Family A G protein-coupled receptor,0.005047412513907918
+Somatostatin receptor type 3,SSTR3,P32745,CHEMBL2028,Family A G protein-coupled receptor,0.005047412513907918
+Somatostatin receptor type 4,SSTR4,P31391,CHEMBL1853,Family A G protein-coupled receptor,0.005047412513907918
+Somatostatin receptor type 2,SSTR2,P30874,CHEMBL1804,Family A G protein-coupled receptor,0.005047412513907918
+Somatostatin receptor type 1,SSTR1,P30872,CHEMBL1917,Family A G protein-coupled receptor,0.005047412513907918
+Protein phosphatase 1A,PPM1A,P35813,CHEMBL2437,Phosphatase,0.005012536182938963
+Protein kinase C delta type,PRKCD,Q05655,CHEMBL2996,Kinase,0.004827378076025391
+Protein kinase C theta type,PRKCQ,Q04759,CHEMBL3920,Kinase,0.004827378076025391
+Protein kinase C epsilon type,PRKCE,Q02156,CHEMBL3582,Kinase,0.004764020529716229
+Protein kinase C eta type,PRKCH,P24723,CHEMBL3616,Kinase,0.004764020529716229
+Protein kinase C beta type,PRKCB,P05771,CHEMBL3045,Kinase,0.004764020529716229
+Amine oxidase [flavin-containing] B,MAOB,P27338,CHEMBL2039,Oxidoreductase,0.0046811293834364285
+Lysophosphatidic acid receptor 2,LPAR2,Q9HBW0,CHEMBL3724,Family A G protein-coupled receptor,0.004632708928975459
+Autotaxin,ENPP2,Q13822,CHEMBL3691,Enzyme,0.004632708928975459
+Tubulin--tyrosine ligase,TTL,Q8NG68,CHEMBL5549,Ligase,0.004548716652549106
+Squalene synthase,FDFT1,P37268,CHEMBL3338,Transferase,0.004462621748761582
+dCTP pyrophosphatase 1,DCTPP1,Q9H773,CHEMBL3769292,Hydrolase,0.004275190418455226
+Proteinase-activated receptor 2,F2RL1,P55085,CHEMBL5963,Family A G protein-coupled receptor,0.004275190418455226
+Phospholipase A2,PLA2G1B,P04054,CHEMBL4426,Hydrolase,0.004275190418455226
+Protein farnesyltransferase,N,P49354&P49356,CHEMBL2094108,Transferase,0.003976948488375497
+Kappa-type opioid receptor,OPRK1,P41145,CHEMBL237,Family A G protein-coupled receptor,0.0036936412269507226
+11-beta-hydroxysteroid dehydrogenase 1,HSD11B1,P28845,CHEMBL4235,Oxidoreductase,0.0036936412269507226
+Lysosomal acid glucosylceramidase,GBA1,P04062,CHEMBL2179,Enzyme,0.0036936412269507226
+Motilin receptor,MLNR,O43193,CHEMBL2203,Family A G protein-coupled receptor,0.0036936412269507226
+Tyrosinase,TYR,P14679,CHEMBL1973,Oxidoreductase,0.003435781562466128
+Fibroblast growth factor 1,FGF1,P05230,CHEMBL2120,Secreted protein,0.003435781562466128
+Galectin-9,LGALS9,O00182,CHEMBL5474,Other cytosolic protein,0.003200661085022229
+Cation-independent mannose-6-phosphate receptor,IGF2R,P11717,CHEMBL3240,Membrane receptor,0.003180778953304242
+Sarcoplasmic/endoplasmic reticulum calcium ATPase 2,ATP2A2,P16615,CHEMBL3901,Primary active transporter,0.0030871046222260825
+Sarcoplasmic/endoplasmic reticulum calcium ATPase 1,ATP2A1,O14983,CHEMBL3136,Primary active transporter,0.0030871046222260825
+NPC1-like intracellular cholesterol transporter 1,NPC1L1,Q9UHC9,CHEMBL2027,Other membrane protein,0.0030822245151893553
+DNA (cytosine-5)-methyltransferase 3A,DNMT3A,Q9Y6K1,CHEMBL1992,Writer,0.0030232196691653895
+Mu-type opioid receptor,OPRM1,P35372,CHEMBL233,Family A G protein-coupled receptor,0.0030112645171577984
+C-X-C chemokine receptor type 1,CXCR1,P25024,CHEMBL4029,Family A G protein-coupled receptor,0.002958779625710108
+Pancreatic alpha-amylase,AMY2A,P04746,CHEMBL2045,Hydrolase,0.002948051870309345
+Solute carrier family 22 member 1,SLC22A1,O15245,CHEMBL5685,Electrochemical transporter,0.0028204795149921547
+"Carbonic anhydrase 5B, mitochondrial",CA5B,Q9Y2D0,CHEMBL3969,Lyase,0.002789600027252578
+Carbonic anhydrase 14,CA14,Q9ULX7,CHEMBL3510,Lyase,0.002789600027252578
+Carbonic anhydrase 13,CA13,Q8N1Q1,CHEMBL3912,Lyase,0.002789600027252578
+Carbonic anhydrase 7,CA7,P43166,CHEMBL2326,Lyase,0.002789600027252578
+"Carbonic anhydrase 5A, mitochondrial",CA5A,P35218,CHEMBL4789,Lyase,0.002789600027252578
+Carbonic anhydrase 6,CA6,P23280,CHEMBL3025,Lyase,0.002789600027252578
+Carbonic anhydrase 4,CA4,P22748,CHEMBL3729,Lyase,0.002789600027252578
+Gamma-secretase,N,Q96BI3&Q9NZ42&Q8WW43&P49768&Q92542&P49810,CHEMBL2094135,Protease,0.002784230883401846
+Cannabinoid receptor 2,CNR2,P34972,CHEMBL253,Family A G protein-coupled receptor,0.0027389695604058163
+Cannabinoid receptor 1,CNR1,P21554,CHEMBL218,Family A G protein-coupled receptor,0.0027389695604058163
+Nicotinamide N-methyltransferase,NNMT,P40261,CHEMBL2346486,Transferase,0.0026479747087957283

@@ -1,0 +1,13 @@
+celltype,NORMAL,AAH,AIS,MIA,LUAD
+B cell,1.1,0.7,1.5,2.3,3.5
+Basal/secretory,3.5,2.5,2.0,2.8,2.1
+Dendritic cell,4.1,4.1,3.8,3.5,4.6
+Endothelial,15.6,13.8,14.6,17.1,8.9
+Epithelial/alveolar,27.5,29.9,31.7,23.3,28.4
+Fibroblast,15.2,14.6,15.1,17.5,13.8
+Macrophage/monocyte,8.1,9.8,8.1,6.7,8.7
+Mast cell,2.3,2.6,1.7,2.3,1.8
+NK cell,4.3,2.9,3.7,5.3,2.1
+Plasma cell,2.1,1.4,2.0,2.6,4.9
+Smooth muscle/pericyte,4.6,4.2,4.5,5.4,3.7
+T cell,11.6,13.5,11.2,11.1,17.8
